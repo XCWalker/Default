@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Searrson.svg"
+   inkscape:export-filename="G:\Other computers\My computer\XCWalker.dev\Icons\Acron.png"
+   inkscape:export-xdpi="48"
+   inkscape:export-ydpi="48"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.80371094"
+     inkscape:cx="37.948967"
+     inkscape:cy="284.3062"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="font-variation-settings:'wght' 700;fill:#63b0cd;fill-opacity:1;stroke-width:0.5"
+       id="rect846"
+       width="512"
+       height="512"
+       x="0"
+       y="0"
+       rx="100"
+       ry="100" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Txt">
+    <g
+       aria-label="Sr"
+       id="text1283"
+       style="font-weight:bold;font-size:330.342px;line-height:1;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#39393a;stroke-width:0.943831;fill-opacity:1"
+       transform="translate(-5.120432,32.043165)">
+      <path
+         d="m 187.4544,343.54064 q -27.74873,0 -53.18507,-7.26752 -25.43633,-7.59787 -40.962406,-19.49018 l 18.168806,-40.30173 q 14.8654,10.57095 35.01626,17.50813 20.4812,6.60684 41.29275,6.60684 15.85642,0 25.43633,-2.97308 9.91026,-3.30342 14.53505,-8.91923 4.62479,-5.61582 4.62479,-12.88334 0,-9.24958 -7.26752,-14.53505 -7.26753,-5.61581 -19.15984,-8.91923 -11.89231,-3.63376 -26.42736,-6.60684 -14.20471,-3.30342 -28.73976,-7.92821 -14.2047,-4.62479 -26.09701,-11.89231 -11.89232,-7.26753 -19.49018,-19.15984 -7.267528,-11.89231 -7.267528,-30.39147 0,-19.82052 10.570948,-36.00727 10.90128,-16.5171 32.37351,-26.09702 21.80258,-9.91026 54.50644,-9.91026 21.80257,0 42.94446,5.28547 21.14189,4.95513 37.32864,15.19573 l -16.5171,40.63207 q -16.18675,-9.24958 -32.37351,-13.54402 -16.18676,-4.62479 -31.71284,-4.62479 -15.52607,0 -25.43633,3.63376 -9.91026,3.63376 -14.20471,9.57992 -4.29444,5.61581 -4.29444,13.21368 0,8.91923 7.26752,14.53505 7.26752,5.28547 19.15984,8.58889 11.89231,3.30342 26.09702,6.60684 14.53504,3.30342 28.73975,7.59787 14.53505,4.29444 26.42736,11.56197 11.89231,7.26752 19.15984,19.15983 7.59786,11.89232 7.59786,30.06113 0,19.49017 -10.90128,35.67693 -10.90129,16.18676 -32.70386,26.09702 -21.47223,9.91026 -54.50643,9.91026 z"
+         id="path2013"
+         style="fill:#39393a;fill-opacity:1" />
+      <path
+         d="m 318.59971,339.57654 v -177.724 h 49.22096 v 50.21198 l -6.93718,-14.53505 q 7.9282,-18.82949 25.43633,-28.40941 17.50813,-9.91026 42.61412,-9.91026 v 47.56925 q -3.30342,-0.33034 -5.94616,-0.33034 -2.64273,-0.33034 -5.61581,-0.33034 -21.14189,0 -34.35557,12.22265 -12.88334,11.89231 -12.88334,37.32865 v 83.90687 z"
+         id="path2015"
+         style="fill:#39393a;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
