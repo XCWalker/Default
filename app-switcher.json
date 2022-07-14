@@ -27,7 +27,7 @@
               "title": "StreamBackground",
               "navTXT": "Stream Background",
               "navHoverTXT": "As Seen On Tv",
-              "redirectURL": "/StreamBackground/"
+              "redirectURL": "./StreamBackground/"
           },
           {
               "title": "ActiveStream",
