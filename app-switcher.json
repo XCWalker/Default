@@ -21,6 +21,20 @@
       "title": "Searrson",
       "hoverTXT": "Streams",
       "URL": "https://xcwalker.github.io/Searrson/",
-      "iconURL": "https://raw.githubusercontent.com/XCWalker/Default/main/iconSVG/Searrson.svg"
+      "iconURL": "https://raw.githubusercontent.com/XCWalker/Default/main/iconSVG/Searrson.svg",
+      "pages": [
+          {
+              "title": "StreamBackground",
+              "navTXT": "Stream Background",
+              "navHoverTXT": "As Seen On Tv",
+              "redirectURL": "/StreamBackground/"
+          },
+          {
+              "title": "ActiveStream",
+              "navTXT": "Active Stream",
+              "navHoverTXT": "Twitchify",
+              "redirectURL": "https://www.twitch.tv/xc_walker"
+          }
+      ]      
     }
   ]
