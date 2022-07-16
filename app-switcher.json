@@ -3,25 +3,37 @@
       "title": "Therwim",
       "hoverTXT": "Graphical Designs",
       "URL": "https://therwim.xcwalker.dev/",
-      "iconURL": "https://raw.githubusercontent.com/XCWalker/Default/main/iconSVG/Therwim.svg"
+      "iconURL": "https://raw.githubusercontent.com/XCWalker/Default/main/iconSVG/Therwim.svg",
+      "foregroundColor":"#f7f9f7",
+      "backgroundColor":"#750d37",
+      "borderColor":"#9b1148"
     },
     {
       "title": "Immersion",
       "hoverTXT": "Example OS UI",
       "URL": "https://immersion.xcwalker.dev/",
-      "iconURL": "https://raw.githubusercontent.com/XCWalker/Default/main/iconSVG/Immersion.svg"
+      "iconURL": "https://raw.githubusercontent.com/XCWalker/Default/main/iconSVG/Immersion.svg",
+      "foregroundColor":"#e4b1ab",
+      "backgroundColor":"#cc444b",
+      "borderColor":"#f25059",
     },
     {
       "title": "Taeron",
       "hoverTXT": "Investigations",
       "URL": "https://taeron.xcwalker.dev/",
-      "iconURL": "https://raw.githubusercontent.com/XCWalker/Default/main/iconSVG/Taeron.svg"
+      "iconURL": "https://raw.githubusercontent.com/XCWalker/Default/main/iconSVG/Taeron.svg",
+      "foregroundColor":"#ead7d7",
+      "backgroundColor":"#412234",
+      "borderColor":"#673652"
     },
     {
       "title": "Searrson",
       "hoverTXT": "Streams",
       "URL": "https://searrson.xcwalker.dev/",
       "iconURL": "https://raw.githubusercontent.com/XCWalker/Default/main/iconSVG/Searrson.svg",
+      "foregroundColor":"#39393a",
+      "backgroundColor":"#63b0cd",
+      "borderColor":"#75d0f3"
       "pages": [
           {
               "title": "StreamBackground",
@@ -41,6 +53,9 @@
       "title": "XCWalker",
       "hoverTXT": "Everyhting Me",
       "URL": "https://xcwalker.dev/",
-      "iconURL": "https://raw.githubusercontent.com/XCWalker/Default/main/iconSVG/Mainsite.svg"
+      "iconURL": "https://raw.githubusercontent.com/XCWalker/Default/main/iconSVG/Mainsite.svg",
+      "foregroundColor":"#fec224",
+      "backgroundColor":"#212121",
+      "borderColor":"#474747"
     }
   ]
