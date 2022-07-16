@@ -15,7 +15,7 @@
       "iconURL": "https://raw.githubusercontent.com/XCWalker/Default/main/iconSVG/Immersion.svg",
       "foregroundColor":"#e4b1ab",
       "backgroundColor":"#cc444b",
-      "borderColor":"#f25059",
+      "borderColor":"#f25059"
     },
     {
       "title": "Taeron",
@@ -33,7 +33,7 @@
       "iconURL": "https://raw.githubusercontent.com/XCWalker/Default/main/iconSVG/Searrson.svg",
       "foregroundColor":"#39393a",
       "backgroundColor":"#63b0cd",
-      "borderColor":"#75d0f3"
+      "borderColor":"#75d0f3",
       "pages": [
           {
               "title": "StreamBackground",
