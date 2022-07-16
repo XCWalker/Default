@@ -36,5 +36,11 @@
               "redirectURL": "https://www.youtube.com/channel/UCoiG3Z0YXszXWLmpnuTx6kA/live"
           }
       ]      
+    },
+    {
+      "title": "XCWalker",
+      "hoverTXT": "Everyhting Me",
+      "URL": "https://xcwalker.dev/",
+      "iconURL": "https://raw.githubusercontent.com/XCWalker/Default/main/iconSVG/Mainsite.svg"
     }
   ]
