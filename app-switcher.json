@@ -37,7 +37,7 @@
     "pages": [
       {
         "title": "StreamBackgroundGenerator",
-        "navTXT": "Stream Background Generator",
+        "navTXT": "SB Generator",
         "navHoverTXT": "Make Your Own",
         "redirectURL": "./SBGen/"
       },
