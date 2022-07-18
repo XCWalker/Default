@@ -39,13 +39,13 @@
         "title": "StreamBackgroundGenerator",
         "navTXT": "SB Generator",
         "navHoverTXT": "Make Your Own",
-        "redirectURL": "./SBGen/"
+        "redirectURL": "https://searrson.xcwalker.dev/SBGen/"
       },
       {
         "title": "StreamBackground",
         "navTXT": "Stream Background",
         "navHoverTXT": "As Seen On Tv",
-        "redirectURL": "./StreamBackground/"
+        "redirectURL": "https://searrson.xcwalker.dev/StreamBackground/"
       },
       {
         "title": "ActiveStream",
