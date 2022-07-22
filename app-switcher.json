@@ -2,6 +2,7 @@
   {
     "title": "Therwim",
     "hoverTXT": "Graphical Designs",
+    "description": "XCWalker's graphical designs.",
     "URL": "https://therwim.xcwalker.dev/",
     "iconURL": "https://raw.githubusercontent.com/XCWalker/Default/main/iconSVG/Therwim.svg",
     "foregroundColor": "#f7f9f7",
@@ -11,6 +12,7 @@
   {
     "title": "Immersion",
     "hoverTXT": "Example OS UI",
+    "description": "XCWalker's vision for a web based operating system.",
     "URL": "https://immersion.xcwalker.dev/",
     "iconURL": "https://raw.githubusercontent.com/XCWalker/Default/main/iconSVG/Immersion.svg",
     "foregroundColor": "#f3dcda",
@@ -19,7 +21,8 @@
   },
   {
     "title": "Taeron",
-    "hoverTXT": "Investigations",
+    "hoverTXT": "Under Development",
+    "description": "Under Development | Investigations",
     "URL": "https://taeron.xcwalker.dev/",
     "iconURL": "https://raw.githubusercontent.com/XCWalker/Default/main/iconSVG/Taeron.svg",
     "foregroundColor": "#ead7d7",
@@ -29,6 +32,7 @@
   {
     "title": "Searrson",
     "hoverTXT": "Streams",
+    "description": "XCWalker's streams & videos on demand from Youtube.",
     "URL": "https://searrson.xcwalker.dev/",
     "iconURL": "https://raw.githubusercontent.com/XCWalker/Default/main/iconSVG/Searrson.svg",
     "foregroundColor": "#39393a",
@@ -38,18 +42,21 @@
       {
         "title": "StreamBackgroundGenerator",
         "navTXT": "SB Generator",
+        "description": "Create your own animated web based stream background",
         "navHoverTXT": "Make Your Own",
         "redirectURL": "https://searrson.xcwalker.dev/SBGen/"
       },
       {
         "title": "StreamBackground",
         "navTXT": "Stream Background",
+        "description": "The stream background site.",
         "navHoverTXT": "As Seen On Tv",
         "redirectURL": "https://searrson.xcwalker.dev/StreamBackground/"
       },
       {
         "title": "ActiveStream",
         "navTXT": "Active Stream",
+        "description": "XCWalker's current live stream on Youtube",
         "navHoverTXT": "Go on, Stream it!",
         "redirectURL": "https://www.youtube.com/channel/UCoiG3Z0YXszXWLmpnuTx6kA/live"
       }
@@ -58,6 +65,7 @@
   {
     "title": "XCWalker",
     "hoverTXT": "Everything Me",
+    "description": "Everything XCWalker all in one place. Come take a look around.",
     "URL": "https://xcwalker.dev/",
     "iconURL": "https://raw.githubusercontent.com/XCWalker/Default/main/iconSVG/Mainsite.svg",
     "foregroundColor": "#fec224",
